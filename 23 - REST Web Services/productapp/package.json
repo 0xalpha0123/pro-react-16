@@ -31,7 +31,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "json-server": "^0.17.0",
+    "json-server": "^0.17.1",
     "npm-run-all": "^4.1.3"
   }
 }
