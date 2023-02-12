@@ -35,7 +35,7 @@
     "express-graphql": "^0.7.1",
     "graphql": "^14.0.2",
     "graphql-import": "^0.7.1",
-    "json-server": "^0.17.0",
+    "json-server": "^0.17.1",
     "npm-run-all": "^4.1.3"
   }
 }
